@@ -1,2 +1,5 @@
 # restaurant
-JS practice
+
+Check availability of seating for a restaurant
+
+Pure JS no UI
